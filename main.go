@@ -1,1 +1,1 @@
-func mai()
+func main()
